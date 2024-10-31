@@ -12,7 +12,7 @@ Cada tipo de peça tem um padrão de movimentação distinto:
 - **Rainha**: pode mover-se em qualquer direção, sem restrições quanto à distância.
 - **Torre**: pode mover-se em linha reta, horizontal ou verticalmente, sem restrições de distância.
 - **Bispo**: pode mover-se diagonalmente, também sem restrições de distância.
-- **Cavalo**: movimenta-se em um padrão em ‘L’, ou seja, três quadrados em uma direção e um quadrado perpendicular, podendo saltar sobre outras peças.
+- **Cavalo**: movimenta-se em um padrão em ‘L’, ou seja, dois quadrados(ignorando o quadrado inicial) em uma direção e um quadrado perpendicular, podendo saltar sobre outras peças.
 - **Peão**: avança em linha reta, geralmente um quadrado de cada vez (pode avançar dois quadrados no primeiro movimento), captura peças na diagonal e possui movimentos especiais como "en passant" e promoção.
 
 As seguintes condições de jogo são definidas:

@@ -1,6 +1,6 @@
 # Tabuleiro de Xadrez
 
-Um tabuleiro de xadrez é representado por uma matriz quadrada \(A_{8\times8}\), contendo 16 peças para cada um dos dois jogadores. As peças são distribuídas da seguinte forma: 1 rei, 1 rainha, 2 torres, 2 cavalos, 2 bispos e 8 peões. Tradicionalmente, um jogador utiliza as peças de cor branca e o outro, as de cor preta. O objetivo do jogo é forçar o rei do adversário a uma posição de xeque-mate, onde ele não possui movimentos legais disponíveis para escapar da ameaça.
+Um tabuleiro de xadrez é representado por uma matriz quadrada A<sub>8x8</sub> , contendo 16 peças para cada um dos dois jogadores. As peças são distribuídas da seguinte forma: 1 rei, 1 rainha, 2 torres, 2 cavalos, 2 bispos e 8 peões. Tradicionalmente, um jogador utiliza as peças de cor branca e o outro, as de cor preta. O objetivo do jogo é forçar o rei do adversário a uma posição de xeque-mate, onde ele não possui movimentos legais disponíveis para escapar da ameaça.
 
 Representação do tabuleiro:
 
